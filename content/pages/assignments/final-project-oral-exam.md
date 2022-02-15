@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b9d28ed2-d14a-361e-7941-9746b5768a37
 title: 'Final Project: Oral "Exam"'
 uid: 190f564c-64aa-514d-d42d-df09a6cce3b7

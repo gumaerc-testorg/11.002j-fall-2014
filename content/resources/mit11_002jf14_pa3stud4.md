@@ -2,8 +2,12 @@
 content_type: resource
 description: This file contains information regarding comparing the strategic efforts
   of gay marriage and immigration reform advocates.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-002j-making-public-policy-fall-2014/8d1fc0b487bfafe13d1b080c7d433ebe_MIT11_002JF14_pa3stud4.pdf
+file: /media/courses/11-002j-making-public-policy-fall-2014/8d1fc0b487bfafe13d1b080c7d433ebe_MIT11_002JF14_pa3stud4.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Paper 3: Strategic Choices in Policy Change'
+parent_type: CourseSection
 resourcetype: Document
 title: '11.002/17.30 Paper 3: Comparing the Strategic Efforts of Gay Marriage and
   Immigration Reform Advocates'

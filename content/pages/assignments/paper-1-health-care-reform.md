@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b9d28ed2-d14a-361e-7941-9746b5768a37
 title: 'Paper 1: Health Care Reform'
 uid: a1ea3853-0ba5-20d2-192e-f39967b4646f

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b9d28ed2-d14a-361e-7941-9746b5768a37
 title: 'Paper 3: Strategic Choices in Policy Change'
 uid: b15aa8d1-1207-ebe3-4b6c-b74d43790d54

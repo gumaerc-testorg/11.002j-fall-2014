@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 47fd04a7-32aa-9e8c-9794-d16f15b14bd4
 ---
@@ -53,28 +55,6 @@ HASS-S ![](/images/educator/icon-question-hass-s.png)
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with chalkboards, several rows of flat tables for students, and a small table at the front for the instructors.]({{< resource_file e91c279e-5096-004f-b61e-fac9fa5f62cb >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Classroom
-    
-    Lectures for this course were held in a seminar room with a capacity of 56, moveable flat tables and chairs arranged in several rows, and a video projector.
-    
-*   ![A classroom with chalkboards and a large square table with chairs around it.]({{< resource_file 1b0d277c-61bc-bb16-e229-83f05cc75390 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations for this course were taught in a small seminar room with a capacity of 16, moveable seminar tables, and a video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
