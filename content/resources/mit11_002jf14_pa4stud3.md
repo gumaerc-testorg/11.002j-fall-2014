@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 4: Climate Change Reform'
 parent_type: CourseSection
+parent_uid: d4c49d66-9677-339e-88f2-27a6f45bebdd
 resourcetype: Document
 title: '11.002/17.30: Paper 4: The Flaws of Relying on State-Level Climate Legislation'
 uid: 6a81bb40-90fe-6540-0b84-744f6d1906a9

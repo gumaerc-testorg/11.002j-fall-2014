@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 1: Health Care Reform'
 parent_type: CourseSection
+parent_uid: a1ea3853-0ba5-20d2-192e-f39967b4646f
 resourcetype: Document
 title: '11.002/17.30 Paper 1: The True Costs of the Affordable Care Act'
 uid: b38fe12a-ce7f-cdaa-e253-e0f12993e64a

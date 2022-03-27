@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 3: Strategic Choices in Policy Change'
 parent_type: CourseSection
+parent_uid: b15aa8d1-1207-ebe3-4b6c-b74d43790d54
 resourcetype: Document
 title: '11.002/17.30 Paper 3: Strategic Policy Efforts for Immigration and Same-Sex
   Marriage Advocates'

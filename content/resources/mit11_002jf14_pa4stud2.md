@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 4: Climate Change Reform'
 parent_type: CourseSection
+parent_uid: d4c49d66-9677-339e-88f2-27a6f45bebdd
 resourcetype: Document
 title: '11.002/17.30 Paper 4: Causes and Effects of State Level Climate Policy'
 uid: 11fcd8c5-c2d8-2d08-9ae7-c33bf4f46966

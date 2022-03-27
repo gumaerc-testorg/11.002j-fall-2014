@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 1: Health Care Reform'
 parent_type: CourseSection
+parent_uid: a1ea3853-0ba5-20d2-192e-f39967b4646f
 resourcetype: Document
 title: '11.002/17.30 Paper 1: The Passage of the Affordable Care Act'
 uid: 8517b845-a78b-3c8d-2f61-ecf39ac8ab5f

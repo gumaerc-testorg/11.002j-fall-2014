@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 2: Gun Control Reform'
 parent_type: CourseSection
+parent_uid: 562ffaa1-f4d3-7e41-f32e-6e89c8f4aef9
 resourcetype: Document
 title: '11.002/17.30 Paper 2: The Difficulty of Passing Gun Control in the United
   States'
