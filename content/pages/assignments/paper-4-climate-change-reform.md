@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the fourth writing assignment
+  for the course and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,6 +29,6 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-[Causes and Effects of State Level Climate Policy (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa4stud2)
+{{% resource_link 11fcd8c5-c2d8-2d08-9ae7-c33bf4f46966 "Causes and Effects of State Level Climate Policy (PDF)" %}}
 
-[The Flaws of Relying on State-Level Climate Legislation (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa4stud3)
+{{% resource_link 6a81bb40-90fe-6540-0b84-744f6d1906a9 "The Flaws of Relying on State-Level Climate Legislation (PDF)" %}}

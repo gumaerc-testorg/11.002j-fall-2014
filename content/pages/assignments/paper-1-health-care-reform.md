@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the first writing assignment for
+  the course and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,8 +33,8 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-[The Affordable Care Act: How It Passed and Where to Go from Here (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa1stud2)
+{{% resource_link cd885eb4-4657-8198-d292-05b6f8cafb90 "The Affordable Care Act: How It Passed and Where to Go from Here (PDF)" %}}
 
-[The True Costs of the Affordable Care Act (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa1stud3)
+{{% resource_link b38fe12a-ce7f-cdaa-e253-e0f12993e64a "The True Costs of the Affordable Care Act (PDF)" %}}
 
-[The Passage of the Affordable Care Act (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa1stud4)
+{{% resource_link 8517b845-a78b-3c8d-2f61-ecf39ac8ab5f "The Passage of the Affordable Care Act (PDF)" %}}

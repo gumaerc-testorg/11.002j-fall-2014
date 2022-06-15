@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the second writing assignment
+  for the course and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,6 +28,6 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-[The Difficulty of Passing Gun Control in the United States (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa2stud2)
+{{% resource_link ff67ab09-7569-b9e7-5965-8cf04daa1024 "The Difficulty of Passing Gun Control in the United States (PDF)" %}}
 
-[Gun Control Reform in the United States (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa2stud4)
+{{% resource_link eadfb496-cde9-73ba-03f4-9ffb1879675c "Gun Control Reform in the United States (PDF)" %}}
