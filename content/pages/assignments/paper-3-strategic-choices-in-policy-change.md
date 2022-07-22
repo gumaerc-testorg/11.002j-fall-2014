@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a description of the third writing assignment for
+  the course and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b9d28ed2-d14a-361e-7941-9746b5768a37
 title: 'Paper 3: Strategic Choices in Policy Change'
 uid: b15aa8d1-1207-ebe3-4b6c-b74d43790d54
@@ -20,8 +26,8 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-[The Strategies of Gay Marriage and Immigration Reform Advocates (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa3stud1)
+{{% resource_link 2cebaef2-94f6-c23f-9f2e-3b649263bf06 "The Strategies of Gay Marriage and Immigration Reform Advocates (PDF)" %}}
 
-[Strategic Policy Efforts for Immigration and Same-Sex Marriage Advocates (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa3stud2)
+{{% resource_link 8d9a36a6-8dba-aae2-5129-1ce7003680be "Strategic Policy Efforts for Immigration and Same-Sex Marriage Advocates (PDF)" %}}
 
-[Comparing the Strategic Efforts of Gay Marriage and Immigration Reform Advocates (PDF)]({{< baseurl >}}/resources/mit11_002jf14_pa3stud4)
+{{% resource_link 8d1fc0b4-87bf-afe1-3d1b-080c7d433ebe "Comparing the Strategic Efforts of Gay Marriage and Immigration Reform Advocates (PDF)" %}}

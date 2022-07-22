@@ -1,16 +1,22 @@
 ---
 content_type: page
+description: This section provides a description of the final project for the course,
+  a group oral exam.
+draft: false
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b9d28ed2-d14a-361e-7941-9746b5768a37
 title: 'Final Project: Oral "Exam"'
 uid: 190f564c-64aa-514d-d42d-df09a6cce3b7
 ---
-
-_Summary_
+## Summary
 
 The final project will take place over the final two class sessions. Students, split up by their recitation groups, will answer questions written by other recitation groups. The group that wrote the question will then critique and evaluate the answer given. Questions will cover material from the entire class, so the entire process will serve as a comprehensive review and wrap-up of the course material.
 
-_Detailed Schedule_
+## Detailed Schedule
 
 On the first day, students will split into their recitation groups. Students in each recitation session must come up with a total of three questions _and_ answers to those questions. Two of the questions should be on the first 5 / 6ths of the semester; ideally they should not repeat material covered in the four assigned papers. The third question should cover education.
 
@@ -22,57 +28,30 @@ During the final session, the class will split into the recitation groups. All g
 
 The questions will be distributed as follows:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 SECTION A
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 SECTION B
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 SECTION C
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 SECTION D
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 AQ1→B
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 BQ1→C
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 CQ1→D
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 DQ1→A
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 AQ2→C
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 BQ2→D
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 CQ2→A
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 DQ2→B
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 In the past, students have not been "graded" on the spot. The focus should be kept on substance, not evaluation.
