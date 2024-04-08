@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding causes and effects of state
   level climate policy.
 file: /courses/11-002j-making-public-policy-fall-2014/11fcd8c5c2d82d089ae7c33bf4f46966_MIT11_002JF14_pa4stud2.pdf
+file_size: 86746
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
