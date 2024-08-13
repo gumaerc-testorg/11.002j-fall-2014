@@ -213,8 +213,6 @@ Federal Budget: Recession, Deficit, and Problem Definition
 
 ### Interest Groups
 
-### Heritage Foundation. ["Getting America's Debt under Control."  (PDF)](http://thf_media.s3.amazonaws.com/2013/pdf/FS125.pdf) Fact Sheet No. 125, August 2013.
-
 - Wasson, Erik. "[Liberals Fear Betrayal by Obama on Social Security](http://thehill.com/policy/finance/135779-liberals-fear-betrayal-from-obama-on-social-security)," *The Hill*, January 5, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -345,7 +343,7 @@ Gay Marriage: Making Policy in the States
 
 ### **Case Readings**
 
-- Graff, E. J. "[Marital Blitz](https://www.questia.com/magazine/1G1-143162974/marital-blitz-this-november-anti-gay-marriage-bills)." *The American Prospect* 17, no. 3 (2006).
+- Graff, E. J. "[Marital Blitz](https://prospect.org/features/marital-blitz/)." *The American Prospect* 17, no. 3 (2006).
 - "[Dispatches from the Culture Wars: Bad News for Gays, Good News for Stoners](http://www.economist.com/node/12573323)," *The Economist*, November 6, 2008.
 - Gelman, Andrew, Jeffrey Lax, et al. "[Over Time. A Gay Marriage Groundswell](http://www.nytimes.com/2010/08/22/weekinreview/22gay.html?_r=0)," *The New York Times*, August 22, 2010.
 - Ball, Molly. "[A Coming Wave of Gay Marriage Electoral Victories?](http://www.theatlantic.com/politics/archive/2012/08/a-coming-wave-of-gay-marriage-electoral-victories/260787/)" *The Atlantic Monthly*, August 2011.
@@ -441,7 +439,6 @@ Climate Change: State Action and the Arizona Net-Metering Case
 - The Arizona Republic. "[Solar Future Up For Grabs in Arizona.](http://archive.azcentral.com/video/2555788370001)" Accessed June 24, 2015. 
 - Explore the [Alliance for Solar Choice](http://allianceforsolarchoice.com/) website.
 - Arizona's Energy Future. "[Net Metering.](https://web.archive.org/web/20150323094012/http://www.azenergyfuture.com/net-metering/)" Arizona Public Service.
-- Explore the [Tell Utilities Solar Won't Be Killed](http://dontkillsolar.com/tusk/) website.
 - Prosper Org. "Ice Cream for Fairness!" October 21, 2013. YouTube. Accessed June 24, 2015. [https://www.youtube.com/watch?v-zJ8tToIeQ_U](https://www.youtube.com/watch?v=zJ8tToIeQ_U)
 - Arizona Solar Facts. "Corporate Welfare." July 2, 2013. YouTube. Accessed June 24, 2015. [https://www.youtube.com/watch?v=gZOi-_sPF6s](https://www.youtube.com/watch?v=gZOi-_sPF6s)
 - Arizona Solar Facts. "Who is TUSK?" September 11, 2013. YouTube. Accessed June 24, 2015. [https://www.youtube.com/watch?v=RBL2fOZNLzg](https://www.youtube.com/watch?v=RBL2fOZNLzg)
