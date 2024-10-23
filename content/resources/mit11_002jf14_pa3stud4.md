@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding comparing the strategic efforts
   of gay marriage and immigration reform advocates.
-file: /courses/11-002j-making-public-policy-fall-2014/8d1fc0b487bfafe13d1b080c7d433ebe_MIT11_002JF14_pa3stud4.pdf
+file: /ol-ocw-studio-app/courses/11-002j-making-public-policy-fall-2014/8d1fc0b487bfafe13d1b080c7d433ebe_MIT11_002JF14_pa3stud4.pdf
 file_size: 120227
 file_type: application/pdf
 learning_resource_types: []
