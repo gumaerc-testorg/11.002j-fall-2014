@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding the difficulty of passing gun
   control in the united states.
-file: /ol-ocw-studio-app/courses/11-002j-making-public-policy-fall-2014/ff67ab097569b9e759658cf04daa1024_MIT11_002JF14_pa2stud2.pdf
+file: /courses/11-002j-making-public-policy-fall-2014/ff67ab097569b9e759658cf04daa1024_MIT11_002JF14_pa2stud2.pdf
 file_size: 131392
 file_type: application/pdf
 learning_resource_types: []
